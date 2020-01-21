@@ -3,7 +3,7 @@ read basePackageName
 
 while :
 do
-	read -p "Digite o nome da classe model ou q para terminar:" class
+	read -p "Digite o nome da classe entity ou q para terminar:" class
 	if [ $class = q ]
 	then
 		break
