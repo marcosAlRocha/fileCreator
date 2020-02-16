@@ -2,7 +2,7 @@
 
 Script utilitário desenvolvido para auxiliar na criação de arquivos em projeto Java com SpringBoot, JPA, JUnit, H2
 
-O problema é que durante o mapeamento de uma entidade, muitas vezes precisamos replicar os arquivos para as todas as pastas com seu respectivo papel. 
+O problema é que durante o mapeamento de uma entidade, muitas vezes precisamos replicar os arquivos para as pastas com seu respectivo papel. 
 Este script visa agilizar este processo.
 
 Para seu funcionamento, é necessário que haja uma convenção para a estrutra de pastas do projeto, no meu caso ficou do seguinte modo : 
